@@ -1,0 +1,40 @@
+nav{
+    padding: 30px;
+    background-color: "#f4f4f4";
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header-link {
+    font-size: 20px;
+    text-decoration: none;
+    font-family: inherit;
+}
+
+.cart-qty {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    position: relative;
+}
+
+.cart-qty > span {
+    position: absolute;
+    left: 40px;
+    top: -10px;
+}
+
+.cart-link {
+    font-size: 20px;
+    text-decoration: none;
+    font-family: inherit;
+}
+
+@media screen and (min-width: 600px) {
+    nav {
+        padding: 30px 120px 30px 120px;
+    }
+    
+}
