@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/http//IsaacPanthera.github.io/cart-react/static/css/main.05aef1b9.css",
-    "main.js": "/http//IsaacPanthera.github.io/cart-react/static/js/main.e11fc22c.js",
-    "static/js/787.1568f9da.chunk.js": "/http//IsaacPanthera.github.io/cart-react/static/js/787.1568f9da.chunk.js",
-    "index.html": "/http//IsaacPanthera.github.io/cart-react/index.html",
-    "main.05aef1b9.css.map": "/http//IsaacPanthera.github.io/cart-react/static/css/main.05aef1b9.css.map",
-    "main.e11fc22c.js.map": "/http//IsaacPanthera.github.io/cart-react/static/js/main.e11fc22c.js.map",
-    "787.1568f9da.chunk.js.map": "/http//IsaacPanthera.github.io/cart-react/static/js/787.1568f9da.chunk.js.map"
+    "main.css": "/https//IsaacPanthera.github.io/react-cart/static/css/main.ac91d982.css",
+    "main.js": "/https//IsaacPanthera.github.io/react-cart/static/js/main.8959892a.js",
+    "static/js/787.1568f9da.chunk.js": "/https//IsaacPanthera.github.io/react-cart/static/js/787.1568f9da.chunk.js",
+    "index.html": "/https//IsaacPanthera.github.io/react-cart/index.html",
+    "main.ac91d982.css.map": "/https//IsaacPanthera.github.io/react-cart/static/css/main.ac91d982.css.map",
+    "main.8959892a.js.map": "/https//IsaacPanthera.github.io/react-cart/static/js/main.8959892a.js.map",
+    "787.1568f9da.chunk.js.map": "/https//IsaacPanthera.github.io/react-cart/static/js/787.1568f9da.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.05aef1b9.css",
-    "static/js/main.e11fc22c.js"
+    "static/css/main.ac91d982.css",
+    "static/js/main.8959892a.js"
   ]
 }
